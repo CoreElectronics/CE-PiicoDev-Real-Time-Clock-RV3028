@@ -4,13 +4,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "PiicoDev Real Time Clock RV3028"
+Date "2021-10-28"
+Rev "00"
 Comp "Core Electronics"
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "Designed at Core Electronics by Peter Johnston"
+Comment2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd."
+Comment3 "License: CCASAv4.0 http://creativecommons.org/licenses/by-sa/4.0"
 Comment4 ""
 $EndDescr
 $Comp
@@ -610,7 +610,7 @@ U 1 1 61797CFA
 P 8850 3300
 F 0 "TP1" H 8908 3418 50  0000 L CNN
 F 1 "TestPoint" H 8908 3327 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 9050 3300 50  0001 C CNN
+F 2 "PiicoDev Real Time Clock RV3028:PinHeader_1x01_P2.54mm_Vertical" H 9050 3300 50  0001 C CNN
 F 3 "~" H 9050 3300 50  0001 C CNN
 	1    8850 3300
 	1    0    0    -1  
@@ -766,7 +766,7 @@ U 1 1 617CC25D
 P 2800 1750
 F 0 "J4" H 2908 2231 50  0000 C CNN
 F 1 "Conn_01x07_Male" H 2908 2140 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 2800 1750 50  0001 C CNN
+F 2 "PiicoDev Real Time Clock RV3028:PinHeader_1x07_P2.54mm_Vertical" H 2800 1750 50  0001 C CNN
 F 3 "~" H 2800 1750 50  0001 C CNN
 	1    2800 1750
 	1    0    0    -1  
