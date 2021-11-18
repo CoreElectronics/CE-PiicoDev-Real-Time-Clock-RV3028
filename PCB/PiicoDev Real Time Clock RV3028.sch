@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PiicoDev Real Time Clock RV3028"
-Date "2021-10-28"
-Rev "00"
+Date "2021-11-16"
+Rev "10"
 Comp "Core Electronics"
 Comment1 "Designed at Core Electronics by Peter Johnston"
 Comment2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd."
@@ -354,7 +354,7 @@ P 3250 4100
 AR Path="/609C5735/60A08162" Ref="R?"  Part="1" 
 AR Path="/60A08162" Ref="R3"  Part="1" 
 F 0 "R3" H 3320 4146 50  0000 L CNN
-F 1 "4k7" H 3320 4055 50  0000 L CNN
+F 1 "10k" H 3320 4055 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3180 4100 50  0001 C CNN
 F 3 "~" H 3250 4100 50  0001 C CNN
 	1    3250 4100
@@ -384,7 +384,7 @@ P 2650 4100
 AR Path="/609C5735/60A08170" Ref="R?"  Part="1" 
 AR Path="/60A08170" Ref="R2"  Part="1" 
 F 0 "R2" H 2720 4146 50  0000 L CNN
-F 1 "4k7" H 2720 4055 50  0000 L CNN
+F 1 "10k" H 2720 4055 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2580 4100 50  0001 C CNN
 F 3 "~" H 2650 4100 50  0001 C CNN
 	1    2650 4100
@@ -476,7 +476,7 @@ L Device:R R1
 U 1 1 60A1F61C
 P 1450 3950
 F 0 "R1" H 1520 3996 50  0000 L CNN
-F 1 "4k7" H 1520 3905 50  0000 L CNN
+F 1 "10k" H 1520 3905 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1380 3950 50  0001 C CNN
 F 3 "~" H 1450 3950 50  0001 C CNN
 	1    1450 3950
@@ -718,7 +718,7 @@ L Device:R R6
 U 1 1 617BA78F
 P 8250 2950
 F 0 "R6" H 8320 2996 50  0000 L CNN
-F 1 "4k7" H 8320 2905 50  0000 L CNN
+F 1 "10k" H 8320 2905 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 8180 2950 50  0001 C CNN
 F 3 "~" H 8250 2950 50  0001 C CNN
 	1    8250 2950
@@ -729,7 +729,7 @@ L Device:R R4
 U 1 1 617BAF8D
 P 5950 3050
 F 0 "R4" H 6020 3096 50  0000 L CNN
-F 1 "4k7" H 6020 3005 50  0000 L CNN
+F 1 "10k" H 6020 3005 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 5880 3050 50  0001 C CNN
 F 3 "~" H 5950 3050 50  0001 C CNN
 	1    5950 3050
