@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name SamacSys_Parts)(type Legacy)(uri "P:/Team Workspace/Brenton Schulz/tmp/MouserLibs/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "P:/Team Workspace/Brenton Schulz/tmp/MouserLibs/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "PiicoDev-Real-Time-Clock-RV3028-rescue")(type "Legacy")(uri "${KIPRJMOD}/PiicoDev Real Time Clock RV3028-rescue.lib")(options "")(descr ""))
 )
